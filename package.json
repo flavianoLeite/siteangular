@@ -1,0 +1,19 @@
+{
+  "name": "siteangular",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flaviano",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.9",
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0"
+  }
+}
